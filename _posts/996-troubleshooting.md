@@ -1,8 +1,9 @@
+---
 layout: post
 title: "996 Troubleshooting"
 date: 2025-08-30 17:34:00 -0000
 categories: Moto Ducati
-
+---
 # 996 Troubleshooting
 
 Currently, troubleshooting a 2001 996 that idles fine but doesn't wanna rev past 4k. 
